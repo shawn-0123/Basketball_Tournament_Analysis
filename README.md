@@ -11,7 +11,7 @@ This repository contains our work for the Wharton Data Science Competition. To m
 
 #### 1. Cloning the Repository
   ```bash
-  git clone XXX
+  git clone https://github.com/shawn-0123/Basketball_Tournament_Analysis
   cd Basketball_Tournament_Analysis
   ```
 
