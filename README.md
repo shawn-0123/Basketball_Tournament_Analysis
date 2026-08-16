@@ -7,7 +7,7 @@ This repository contains our work for the Wharton Data Science Competition. To m
 
 ## 📓 Notebooks
 
-The analysis lives in `notebooks/`, split into six focused steps. Run them in order — each one
+Run the 6 notebooks in order. Each one
 reads the artifacts the previous one wrote into `processed_data/`.
 
 | Notebook | What it does | Writes |
@@ -19,8 +19,7 @@ reads the artifacts the previous one wrote into `processed_data/`.
 | [`05_regional_ranking_kmeans_clustering`](notebooks/05_regional_ranking_kmeans_clustering.ipynb) | Tiers the North Region teams with K-means (k = 4) and ranks them by distance to centroid | — |
 | [`06_kmeans_illustration`](notebooks/06_kmeans_illustration.ipynb) | Standalone explainer figure for K-means; uses synthetic data and depends on nothing else | — |
 
-`WHSDSC_complete_code.ipynb` is the original single-file version, kept for reference.
-Raw data lives in `COMPETITION_DATA/`; `processed_data/` is generated and git-ignored.
+Raw data is in `COMPETITION_DATA/`.
 
 ---
 
