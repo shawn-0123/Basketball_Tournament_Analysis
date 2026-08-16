@@ -1,0 +1,10 @@
+# Intermediate artifacts written by the notebooks - regenerate by running 01 -> 05
+processed_data/*
+!processed_data/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
